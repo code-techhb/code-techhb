@@ -1,6 +1,6 @@
 <p align="center">🌟 Welcome to my GitHub profile!</p>
 
-<img src="/Personal Banner.png" alt="Houlaymatou's personal GitHub banner with key information and visuals">
+<img src="/images/PersonalBanner.png" alt="Houlaymatou's personal GitHub banner with key information and visuals">
 
 
 ## About Me
