@@ -1,41 +1,56 @@
-<p align="center">🌟 Welcome to my GitHub profile!</p>
+<p align="center">🌟 Welcome to my GitHub profile ~ I build apps I need, then share them in case you need them too 🌟</p>
 
 <img src="/images/PersonalBanner.png" alt="Houlaymatou's personal GitHub banner with key information and visuals">
 
 
 ## About Me
 
-🙋🏾‍♀️ Hi, I'm Houlaymatou, a tech enthusiast diving into the world of Full Stack Web Development and AI Engineering
-
-- 🧠 I enjoy learning how to design intuitive, user-friendly web applications & developing innovative AI solutions
-- 👩🏽‍💻 Currently enhancing my skills in **ReactJS**, **Typescript**, and **Machine Learning**
-- 🥳 Working on a mix of projects that have me genuinely excited to code each day
+🙋🏾‍♀️ Hi, I'm Houlaymatou, a Computer Science & Software Development student who learns by building tools she'll actually use
+- 🌸 I enjoy turning ideas into apps that make someone's day a little easier  
+- 👩🏽‍💻 Currently diving deeper into **ReactJS**, **Typescript**, and **Machine Learning**
+- 🧠 Working on a mix of projects that have me genuinely excited to code each day
+- 🏫 Spring '26 coursework: Statistics, ML 1, Cloud Computing (AWS), Software Quality Assurance, Computer Ethics & Linux Ops 1
 - 📲 How to reach me: [Instagram](https://www.instagram.com/code_techhb/) | [LinkedIn](https://www.linkedin.com/in/houlaymatoub/)  
 
 ## Tech Stack
+A snapshot of what I work with...always adding more 🛠️
 
-#### Programming Languages
+#### Languages
+over the past month 👩🏽‍💻...
 <div>
-  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-  <img alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png">
-  <img alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png">
-  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-  <img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+  <img alt="langs" width="500px" src="https://wakatime.com/share/@code_techhbb/baade91c-d857-4ada-951a-91ddf7a55f70.svg" />
 </div>
 
-#### Tools | Libraries | Frameworks
+#### Frameworks & Libraries
+
+**Frontend**
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="TailwindCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Vite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+</div>
+
+**Backend**
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express.js" width="40px" src="https://cdn.simpleicons.org/express/339933" />
+  <img alt="Supabase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
+  <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</div>
+
+**Data Science & ML**
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img alt="Scikit-Learn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+</div>
+
+#### Design & Planning
 <div>
-  <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-  <img alt="Pycharm" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"> 
+  <img alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;&nbsp;
+  <img alt="Canva" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />&nbsp;&nbsp;
+  <img alt="Notion" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
 </div>
 
 ## Stats
@@ -45,4 +60,5 @@
   <img src="https://komarev.com/ghpvc/?username=code-techhb&abbreviated=true&style=flat-square&color=green" alt="Profile Views" />
 </p>
 
+---
 Consider exploring my pinned projects below to see some of my best work and contributions 😊!
